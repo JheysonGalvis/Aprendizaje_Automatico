@@ -21,3 +21,20 @@ Aqui hare un resumen de la lectura
 
 aqui hare mi resumen de la lectura
 
+# Andres Arias
+
+## Introducción:
+El aprendizaje automático (Machine Learning, ML) es un subcampo de la inteligencia artificial (IA) que permite a las máquinas aprender de datos y mejorar su rendimiento en tareas específicas sin ser explícitamente programadas. Utiliza algoritmos para identificar patrones en grandes volúmenes de datos, hacer predicciones y tomar decisiones automatizadas. Este campo ha crecido rápidamente con la disponibilidad de grandes conjuntos de datos y el aumento del poder computacional, lo que lo convierte en una herramienta fundamental en múltiples industrias, desde la salud hasta el comercio electrónico.
+
+
+## Tareas del Aprendizaje Automático:
+- **Clasificación:** La tarea de clasificar elementos en categorías predefinidas. Por ejemplo, identificar si un correo electrónico es spam o no, o clasificar imágenes de animales según su especie.
+
+- **Regresión:** Consiste en predecir valores continuos, como el precio de una casa basado en características como ubicación, tamaño y antigüedad.
+
+- **Agrupamiento (Clustering):** Agrupa datos sin etiquetas en categorías similares. Un ejemplo clásico es la segmentación de clientes basada en sus comportamientos de compra.
+
+- **Reducción de Dimensionalidad:** Técnica utilizada para simplificar los conjuntos de datos, eliminando características redundantes o irrelevantes mientras se mantiene la información esencial. Métodos como Análisis de Componentes Principales (PCA) se utilizan para este fin.
+- **Sistemas de Recomendación:** Algoritmos que predicen las preferencias de los usuarios para sugerir productos o servicios, como lo hacen plataformas como Netflix o Amazon.
+- **Detección de Anomalías:** Identificación de datos que se desvían significativamente de lo esperado, como fraudes en transacciones financieras.
+- **Aprendizaje por Refuerzo:** Es un tipo de aprendizaje donde un agente aprende a través de la interacción con su entorno, recibiendo recompensas o castigos en función de las acciones que realiza. Un ejemplo famoso es el entrenamiento de algoritmos para jugar videojuegos o controlar robots.
