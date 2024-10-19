@@ -28,7 +28,7 @@ El aprendizaje supervisado es un enfoque de aprendizaje automático donde un mod
 
   # Comentario de Carlos Rosero
 
-  # Andres Arias
+# Comentario Andres Arias
 
   ## Introducción:
  El aprendizaje supervisado es una técnica de la inteligencia artificial y el aprendizaje automático en la que un modelo de aprendizaje se entrena utilizando un **conjunto de datos** etiquetados, lo que significa que cada entrada en los datos tiene una salida o respuesta correcta asociada. El objetivo del modelo es aprender una función que relacione las entradas con las salidas, de modo que, una vez entrenado, pueda hacer predicciones precisas sobre datos nuevos y no etiquetados.
