@@ -70,7 +70,7 @@ En resumen, el aprendizaje supervisado se enfoca en aprender de ejemplos etiquet
 
   # Comentario de Alexander Granja Arcos
 
-  El documento se centra en el **aprendizaje supervisado**, un enfoque dentro del aprendizaje automático donde un modelo se entrena con un conjunto de datos etiquetado para hacer predicciones sobre nuevas instancias. A continuación, se resumen las ideas más relevantes siguiendo el orden del archivo.
+  El documento se centra en el **aprendizaje supervisado**, un enfoque dentro del aprendizaje automático donde un modelo se entrena con un conjunto de datos etiquetado para hacer predicciones sobre nuevas instancias.
 
 ## Aprendizaje Supervisado
 El aprendizaje supervisado consiste en entrenar un modelo utilizando datos etiquetados, donde cada entrada tiene una salida deseada. El objetivo es que el modelo aprenda la relación entre entradas y salidas para realizar predicciones en datos no vistos.
