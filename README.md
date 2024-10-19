@@ -9,6 +9,12 @@ La efectividad del aprendizaje automático se basa en la calidad y cantidad de l
 
 # Vanessa Ortega
 
+El Aprendizaje Automático se define como una disciplina de la inteligencia artificial enfocada en desarrollar algoritmos y modelos computacionales que permiten a las máquinas aprender y realizar tareas sin ser programadas explícitamente. El aprendizaje automático mejora el rendimiento de los sistemas a medida que se proporcionan más datos y experiencias.
+Uno de los aspectos clave es su capacidad de aprender a partir de ejemplos previos y adaptarse a nuevas situaciones sin intervención humana. Los algoritmos de aprendizaje automático identifican patrones en los datos para realizar predicciones o tomar decisiones.
+
+El aprendizaje automático tiene aplicaciones en diversos campos, como medicina, biología, finanzas, robótica, entre otros. Algunos ejemplos incluyen reconocimiento de voz, detección de fraudes, recomendación de productos y conducción autónoma.
+Los algoritmos se dividen en dos categorías principales: aprendizaje supervisado y no supervisado. Además, se utilizan conceptos como conjunto de entrenamiento, prueba y validación para desarrollar y evaluar modelos de manera adecuada.
+
 # Aurelio Cheveroni
 
 # Sofia Muñoz
