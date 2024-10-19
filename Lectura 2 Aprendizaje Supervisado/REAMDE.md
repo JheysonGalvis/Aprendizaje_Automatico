@@ -26,3 +26,5 @@ El aprendizaje supervisado es un enfoque de aprendizaje automático donde un mod
 
   # Comentario de Vanessa Ortega
 
+  # Comentario de Carlos Rosero
+
