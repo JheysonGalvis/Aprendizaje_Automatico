@@ -52,7 +52,11 @@ Automatización: Vehículos autónomos, sistemas de recomendación.
 
 # Jaime Gomez Idrobo
 
-aqui hare mi resumen de la lectura
+El aprendizaje automático es una rama de la IA que permite a las máquinas aprender patrones y realizar tareas sin ser programadas explícitamente. El aprendizaje automático se utiliza en campos como la medicina, finanzas y transporte, aplicándose en el reconocimiento de voz, detección de fraudes y recomendaciones de productos.
+
+Existen dos tipos principales de aprendizaje: supervisado y no supervisado. Los algoritmos aprenden a partir de conjuntos de datos que se dividen en entrenamiento, prueba y validación, permitiendo mejorar su precisión y capacidad de generalización. Estos algoritmos ayudan a clasificar, hacer regresiones, agrupar datos y detectar anomalías, entre otras tareas.
+
+
 
 # Andres Arias
 
