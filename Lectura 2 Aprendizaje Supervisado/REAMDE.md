@@ -26,6 +26,12 @@ El aprendizaje supervisado es un enfoque de aprendizaje automático donde un mod
 
   # Comentario de Vanessa Ortega
 
+El documento explica el aprendizaje supervisado, un tipo de aprendizaje automático en el que un modelo se entrena con un conjunto de datos etiquetado. El objetivo es que el modelo aprenda la relación entre las entradas y las salidas para hacer predicciones precisas en datos no vistos.
+
+Los elementos clave incluyen el conjunto de datos etiquetado, el modelo de aprendizaje, y el proceso de entrenamiento. Además, el documento destaca la importancia del preprocesamiento de datos para mejorar la precisión del modelo y aborda desafíos como el sobreajuste y la selección de hiperparámetros.
+
+El aprendizaje supervisado tiene aplicaciones en áreas como la clasificación de correos, diagnóstico médico, predicción del tiempo y recomendación de productos. También se mencionan avances como el uso de modelos preentrenados y transfer learning, que permiten adaptar modelos para tareas específicas con menos datos.
+
   # Comentario de Carlos Rosero
 
 # Comentario Andres Arias
