@@ -20,7 +20,29 @@ En el aprendizaje automático, la correcta gestión de los conjuntos de datos es
 
 # Carlos Rosero
 
-Aqui hare un resumen de la lectura
+El Aprendizaje Automático (o Machine Learning) es una rama de la inteligencia artificial que permite a las máquinas aprender de los datos sin ser explícitamente programadas para realizar una tarea específica. El objetivo principal es desarrollar algoritmos que identifiquen patrones en grandes volúmenes de datos y que, basados en esos patrones, puedan realizar predicciones o tomar decisiones.
+
+Componentes Clave:
+Datos: Los datos son esenciales para entrenar los modelos de aprendizaje automático. Se usan conjuntos de datos etiquetados (en aprendizaje supervisado) o no etiquetados (en aprendizaje no supervisado).
+
+Modelos: Un modelo es el algoritmo que procesa los datos para aprender patrones o relaciones. Los tipos de modelos varían dependiendo del problema: regresión, clasificación, clustering, etc.
+
+Entrenamiento: El proceso de entrenamiento consiste en ajustar los parámetros del modelo usando los datos de entrada para minimizar el error entre las predicciones del modelo y los valores reales.
+
+Evaluación: Una vez entrenado, el modelo se evalúa utilizando datos nuevos (generalmente llamados datos de prueba) para medir su precisión y capacidad de generalización.
+
+Tipos de Aprendizaje Automático:
+Aprendizaje Supervisado: Se entrena el modelo con datos etiquetados, es decir, cada entrada está asociada con una salida esperada. Ejemplos: clasificación y regresión.
+
+Aprendizaje No Supervisado: Los datos no tienen etiquetas y el objetivo es encontrar patrones o estructuras ocultas. Ejemplos: clustering y reducción de dimensionalidad.
+
+Aprendizaje por Refuerzo: El modelo aprende a través de la interacción con un entorno, tomando decisiones y recibiendo recompensas o castigos basados en sus acciones.
+
+Aplicaciones:
+Visión por Computador: Reconocimiento de imágenes y objetos.
+Procesamiento de Lenguaje Natural: Traducción automática, chatbots, análisis de sentimientos.
+Predicción de Tendencias: Modelos de predicción financiera o de comportamiento del cliente.
+Automatización: Vehículos autónomos, sistemas de recomendación.
 
 # Jaime Gomez Idrobo
 
