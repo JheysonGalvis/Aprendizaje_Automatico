@@ -6,11 +6,11 @@ Aquí haría el resumen de la lectura 2 de Aprendizaje Supervisado
 
 # Comentario de Sofia Muñoz
 
-##Aprendizaje Supervisado:
+## Aprendizaje Supervisado:
 
 El aprendizaje supervisado es un enfoque de aprendizaje automático donde un modelo se entrena utilizando un conjunto de datos etiquetado, compuesto por ejemplos de entrada con sus salidas deseadas. El objetivo es que el modelo aprenda la relación entre las entradas y las salidas para hacer predicciones precisas en nuevos datos.
 
-###Los elementos clave incluyen:
+### Los elementos clave incluyen:
 
 * Conjunto de datos etiquetado: ejemplos con salidas conocidas.
 * Modelo de aprendizaje: una representación matemática para hacer predicciones.
