@@ -19,4 +19,10 @@ El aprendizaje supervisado es un enfoque de aprendizaje automático donde un mod
 * El preprocesamiento de datos, como la normalización y la gestión de datos faltantes, es crucial para mejorar la calidad del modelo y evitar problemas como el sobreajuste. El 
   principal desafío del aprendizaje supervisado es lograr una buena generalización en datos no vistos.
 
+
+  # Aurelio Cheveroni
+
+  asdf asfa asfas asdf sd
+
   # Comentario de Vanessa Ortega
+
