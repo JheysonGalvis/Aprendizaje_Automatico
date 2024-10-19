@@ -35,7 +35,7 @@ El aprendizaje supervisado tiene aplicaciones en áreas como la clasificación d
   # Comentario de Carlos Rosero
 
 
-  #Comentario de Alexander Granja Arcos
+  # Comentario de Alexander Granja Arcos
 
   El documento se centra en el **aprendizaje supervisado**, un enfoque dentro del aprendizaje automático donde un modelo se entrena con un conjunto de datos etiquetado para hacer predicciones sobre nuevas instancias. A continuación, se resumen las ideas más relevantes siguiendo el orden del archivo.
 
