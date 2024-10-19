@@ -34,6 +34,39 @@ El aprendizaje supervisado tiene aplicaciones en áreas como la clasificación d
 
   # Comentario de Carlos Rosero
 
+El **aprendizaje supervisado** es un tipo de aprendizaje automático donde un modelo es entrenado con un conjunto de datos etiquetados, es decir, los datos de entrada vienen acompañados de su resultado esperado o correcto. El objetivo es que el modelo aprenda una relación o patrón entre las entradas y las salidas para poder predecir correctamente las salidas de nuevos datos no vistos.
+
+### Funcionamiento:
+
+1. **Datos de Entrenamiento**: Se proporciona al modelo un conjunto de datos que incluye tanto las entradas (*features*) como las salidas correspondientes (*labels* o etiquetas). Por ejemplo, en un problema de clasificación de imágenes, las entradas pueden ser imágenes y las salidas pueden ser etiquetas que identifican lo que hay en la imagen (gato, perro, etc.).
+
+2. **Proceso de Entrenamiento**: El algoritmo de aprendizaje supervisado analiza los datos de entrenamiento y busca una función matemática o modelo que mapee correctamente las entradas con sus respectivas salidas. Durante este proceso, ajusta sus parámetros para minimizar el error o la diferencia entre las predicciones del modelo y las salidas reales.
+
+3. **Evaluación**: Una vez que el modelo ha sido entrenado, se le da un conjunto de datos nuevos (datos de prueba) para evaluar su capacidad de generalización, es decir, su habilidad para predecir correctamente las etiquetas de datos no vistos.
+
+### Tipos de Aprendizaje Supervisado:
+
+1. **Clasificación**: El modelo aprende a asignar una etiqueta o clase a cada entrada. Ejemplos: 
+   - Clasificación de correos electrónicos como "spam" o "no spam".
+   - Reconocimiento de imágenes para identificar objetos o personas.
+
+2. **Regresión**: El modelo predice un valor continuo. Ejemplos:
+   - Predecir el precio de una casa basado en características como su tamaño, ubicación, etc.
+   - Predecir la temperatura o las ventas futuras.
+
+### Ejemplos de Algoritmos de Aprendizaje Supervisado:
+
+- **Regresión Lineal**: Se utiliza principalmente para problemas de regresión.
+- **Máquinas de Soporte Vectorial (SVM)**: Se usan para clasificación.
+- **Árboles de Decisión**: Pueden ser utilizados tanto para regresión como para clasificación.
+- **Redes Neuronales**: Funcionan bien tanto en tareas de clasificación como de regresión.
+- **K-Vecinos más Cercanos (KNN)**: Clasifica los datos basándose en las etiquetas de los puntos más cercanos.
+
+### Ejemplo en la vida real:
+
+Imagina que tienes un conjunto de datos de correos electrónicos, donde algunos están etiquetados como "spam" y otros como "no spam". Un algoritmo de aprendizaje supervisado puede aprender a diferenciar entre estos correos basándose en características como palabras clave, frecuencia de ciertos términos, remitente, entre otros. Una vez entrenado, el modelo podrá clasificar automáticamente nuevos correos electrónicos como "spam" o "no spam".
+
+En resumen, el aprendizaje supervisado se enfoca en aprender de ejemplos etiquetados para predecir con precisión el resultado de nuevas instancias.
 
   # Comentario de Alexander Granja Arcos
 
