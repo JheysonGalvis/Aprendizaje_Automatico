@@ -99,11 +99,13 @@ Las aplicaciones del aprendizaje supervisado abarcan:
 ## Preprocesamiento de Datos
 El preprocesamiento es crucial para el éxito del modelo e incluye:
 
-**Manejo de Datos Faltantes**
-**Normalización y Escalado**
-**Codificación de Variables Categóricas**
-**Gestión de Datos Desbalanceados**
-**Eliminación de Outliers**
+* **Manejo de Datos Faltantes:** imputación de datos o la eliminación de instancias incompletas.
+* **Normalización de texto:** normalizar el texto mediante la eliminación de puntuación, la conversión a minúsculas y la lematización.
+* **Escalado:** aseguran que todas las características contribuyan de manera equitativa al modelo, evitando la dominación de características con magnitudes mayores.
+* **Codificación de Variables Categóricas:** se requiere que las variables se conviertan a formato númerico.
+* **Gestión de Datos Desbalanceados** equidad en las clases.
+* **Eliminación de Outliers** datos anormales dentro de un conjunto de datos
+* **Selección de caracteristicas:** desecha lo redundante o irrelevante
 
 Estas técnicas mejoran la calidad de los datos y el rendimiento del modelo.
 
