@@ -71,3 +71,58 @@ El aprendizaje automático (Machine Learning, ML) es un subcampo de la inteligen
 - **Sistemas de Recomendación:** Algoritmos que predicen las preferencias de los usuarios para sugerir productos o servicios, como lo hacen plataformas como Netflix o Amazon.
 - **Detección de Anomalías:** Identificación de datos que se desvían significativamente de lo esperado, como fraudes en transacciones financieras.
 - **Aprendizaje por Refuerzo:** Es un tipo de aprendizaje donde un agente aprende a través de la interacción con su entorno, recibiendo recompensas o castigos en función de las acciones que realiza. Un ejemplo famoso es el entrenamiento de algoritmos para jugar videojuegos o controlar robots.
+
+# Alexander Granja Arcos
+
+El archivo proporciona una **introducción al aprendizaje automático**, una disciplina de la inteligencia artificial que permite a las máquinas aprender patrones y realizar tareas específicas sin programación explícita. A continuación, se presenta un resumen detallado de los temas abordados en el documento.
+
+## Introducción al Aprendizaje Automático
+El aprendizaje automático (Machine Learning) se centra en el desarrollo de algoritmos que permiten a las máquinas aprender de datos y experiencias previas. Este enfoque es fundamental para la automatización y mejora continua en diversas aplicaciones, incluyendo medicina, finanzas y robótica.
+
+## Características Fundamentales
+* **Aprendizaje a partir de Ejemplos**: Los algoritmos identifican patrones en conjuntos de datos para realizar predicciones.
+* **Adaptabilidad**: Capacidad de ajustarse a nuevas situaciones sin intervención humana.
+  
+## Aplicaciones Prácticas
+El aprendizaje automático se utiliza en:
+* **Reconocimiento de voz**
+* **Detección de fraudes**
+* **Recomendaciones de productos**
+* **Conducción autónoma**
+* **Diagnóstico médico asistido**
+
+## Definición y Estructura
+El aprendizaje automático se considera una forma de estadística aplicada, donde los algoritmos se dividen en:
+* **Aprendizaje Supervisado**: Entrenamiento con datos etiquetados.
+* **Aprendizaje No Supervisado**: Sin etiquetas, buscando patrones inherentes.
+
+### Elementos Clave
+Un algoritmo de aprendizaje automático combina:
+1. **Algoritmo de Optimización**, 
+2. **Función de Costo**, 
+3. **Modelo** y 
+4. **Conjunto de Datos**
+
+## Tareas del Aprendizaje Automático
+Las tareas incluyen:
+* **Clasificación**: Asignar etiquetas a datos (ej. spam/no spam).
+* **Regresión**: Predecir valores continuos (ej. precio de casas).
+* **Agrupamiento**: Dividir datos en grupos similares.
+* **Detección de Anomalías**: Identificar comportamientos inusuales.
+* **Recomendación**: Sugerir productos basados en preferencias.
+
+## Conjuntos de Datos y Divisiones
+Los conjuntos de datos son esenciales y se dividen en:
+* **Conjunto de Entrenamiento**: Para entrenar el modelo.
+* **Conjunto de Prueba**: Para evaluar el rendimiento del modelo.
+* **Conjunto de Validación**: Para ajustar hiperparámetros y evitar sobreajuste.
+
+### Consideraciones Generales
+La calidad y representatividad del conjunto de entrenamiento son cruciales para la efectividad del modelo. Es importante estratificar los conjuntos en problemas de clasificación para evitar desequilibrios.
+
+## Ejemplo Conceptual
+Se ilustra el proceso usando el reconocimiento de dígitos escritos a mano, donde un modelo aprende a asociar imágenes con sus respectivas etiquetas durante el entrenamiento.
+
+## Conclusión
+El aprendizaje automático es una herramienta poderosa que transforma diversas áreas al permitir a las máquinas aprender y mejorar su rendimiento basado en datos y experiencias pasadas. Su capacidad para adaptarse y generalizar es clave para su aplicación efectiva en el mundo real.
+
